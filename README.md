@@ -4,3 +4,5 @@
 
 [![Alexegiev's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=alexegiev&theme=algolia&show_icons=true)](https://github.com/alexegiev)
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?alexegiev" frameborder="0"></iframe>
+
