@@ -1,9 +1,9 @@
 About me
 ========
--Undegraduate student of Athens University of Economics and Business
--Main interests
-  *Software Enginerring
-  *Cybersecurity
+- Undegraduate student of Athens University of Economics and Business
+- Main interests
+  * Software Enginerring
+  * Cybersecurity
 
 <img id = "simple_gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300" float= right/>
 
