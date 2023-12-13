@@ -11,6 +11,7 @@ Experience
 
 <style>
   #simple_gif{
-    position = right;  
+    position = relative;
+    right = 10px;  
   } 
 </style>
