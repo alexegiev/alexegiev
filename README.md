@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300"/>
+-Undegraduate student of Athens University of Economics and Business
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300" float= right/>
 
 
 Experience
