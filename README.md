@@ -7,6 +7,13 @@ About me
   * Software Engineering
   * Secure Coding
   * Cybersecurity
+ 
+- Hobbies
+  * Reading books (literature and psychoanalysis)
+  * Chess
+  * Swimming
+  * Gaming
+  
 
 <img id = "simple_gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300" float= right/>
 
