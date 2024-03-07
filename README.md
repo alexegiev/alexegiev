@@ -6,7 +6,7 @@ About me
   * DevOps
   * Software Engineering
   * Secure Coding
-  * Cybersecurity
+  * Game Development
  
 - Hobbies
   * Reading books (literature and psychoanalysis)
