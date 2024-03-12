@@ -5,7 +5,7 @@ About me
   * BackEnd Development
   * DevOps
   * Software Engineering
-  * Secure Coding
+  * CyberSecurity
   * Game Development
  
 - Hobbies
