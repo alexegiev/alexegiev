@@ -7,6 +7,7 @@ About me
   * Software Engineering
   * CyberSecurity
   * Game Development
+
  
 - Hobbies
   * Reading books (literature and psychoanalysis)
