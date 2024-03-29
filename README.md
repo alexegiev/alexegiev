@@ -2,11 +2,11 @@ About me
 ========
 - Undegraduate student of Athens University of Economics and Business
 - Main interests
+  * Software Engineering
   * BackEnd Development
   * DevOps
-  * Software Engineering
-  * CyberSecurity
   * Game Development
+  * Secure Coding
  
  
 - Hobbies
