@@ -1,6 +1,6 @@
 About me
 ========
-- Undegraduate student of Athens University of Economics and Business
+- Graduate student of Athens University of Economics and Business
 - Main interests
   * Software Engineering
   * BackEnd Development
