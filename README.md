@@ -10,7 +10,7 @@ About me
  
  
 - Hobbies
-  * Reading books (literature and psychoanalysis)
+  * Reading books
   * Chess
   * Swimming
   * Gaming
